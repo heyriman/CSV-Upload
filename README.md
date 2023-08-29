@@ -1,10 +1,10 @@
-# CSV-Upload-File-Nodejs 🚀
-## ⭐ Introduction
+# CSV-Upload
+## What it is?
 CSV Upload File which built using Nodejs, Ejs , CSS , JavaScript.It is responsive across all devices.
 <br/>
 <br/>
 ## Features 
-- User can upload any csv file into the system - using Multer JS
+- User can upload any csv file into the system
 - Display a list of all uploaded csv files - CSV is parsed and converted into JSON and stored in the Mongo Database
 - When the user selects a file, it displays all the data (with column headers) in a table on the page (front end)
 - There is a search box which searches on the front end itself and displays the matching rows of the table only (empty search box displays all the data).
@@ -34,9 +34,9 @@ CSV Upload File which built using Nodejs, Ejs , CSS , JavaScript.It is responsiv
 - connect-flash <br />
 <br/>
 
-## 💻  Screen
+## Screen
 
-### CSV Upload File
+### How it looks like:
 
 ![Screenshot (329)](https://github.com/ajaykumar2pp/CSV-Upload-File-Nodejs/assets/102378038/c0359b93-7496-47cf-bc96-8f48a8d4105e)
 
