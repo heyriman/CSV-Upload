@@ -34,12 +34,6 @@ CSV Upload File which built using Nodejs, Ejs , CSS , JavaScript.It is responsiv
 - connect-flash <br />
 <br/>
 
-## Screen
-
-### How it looks like:
-
-![Screenshot (329)](https://github.com/ajaykumar2pp/CSV-Upload-File-Nodejs/assets/102378038/c0359b93-7496-47cf-bc96-8f48a8d4105e)
-
 
 
 
