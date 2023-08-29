@@ -33,6 +33,31 @@ CSV Upload File which built using Nodejs, Ejs , CSS , JavaScript.It is responsiv
 - papaparse <br/ >
 - connect-flash <br />
 <br/>
+## Folder Structure
+```
+CSV_Upload/
+|── |assets/
+│   |      ├── css/
+│   │      |     ├── styles.css
+│   |      ├── js/
+│   |            ├── script.js
+│   ├── uploads/
+│   ├── index.html
+|   |
+├── routes/
+│   ├── csvRoutes.js
+|   |
+├── controllers/
+│   ├── csvController.js
+|   |
+├── models/
+│   ├── csvModel.js
+|   |
+├── .gitignore
+├── package.json
+├── README.md
+
+```
 
 
 
